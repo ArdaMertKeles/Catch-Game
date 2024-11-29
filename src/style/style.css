@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.boardWrapper {
+  background: black;
+  display: grid;
+  grid-template-columns: repeat(20, 75px);
+  gap: 2px;
+}
+
+.tile {
+  width: 75px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wall {
+  background-color: black;
+}
+
+.floor {
+  background-color: lightgray;
+}
+
+.door {
+  background-color: brown;
+}
+
+.player {
+  background-color: blue;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.enemy {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+}
+
+.turnCounter {
+  position: absolute;
+  color: #f0f0f0;
+}
+
+.levelPanel {
+  position: absolute;
+  color: #f0f0f0;
+  left: 50%;
+}/*# sourceMappingURL=style.css.map */
