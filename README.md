@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# This is a simple brain teaser game [Live Server](https://mycatchgame.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I used React.js and Scss on this project.
+While you are trying to reach to the door for next level, red square enemies are chasing you.
+
+![Ekran görüntüsü 2024-11-29 204320](https://github.com/user-attachments/assets/c79e937d-9c15-4029-a4c8-5aab6db36955)
+
+![Ekran görüntüsü 2024-11-29 204239](https://github.com/user-attachments/assets/d471f6c4-2fb1-4871-b069-7df743e4e7f2)
+
+![Ekran görüntüsü 2024-11-29 204345](https://github.com/user-attachments/assets/e1079aec-1118-4c9d-87b1-197a1f28cff0)
+
 
 ## Available Scripts
 
